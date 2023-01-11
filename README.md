@@ -22,3 +22,9 @@ I made the design, layout and programming of the project.*
   - Run the project: python app.py
   
   - In case you need to deactivate your environment: ./venv/Scripts/deactivate
+  
+ ***Screenshots***
+ 
+![kg-pnd](https://github.com/Jableed43/python-unit_converter/blob/7d3afc47e5ab5eb1d2b2e762c6ffafc3863db7e7/screenshots/kg-pound.jpg)
+![km-ml](https://github.com/Jableed43/python-unit_converter/blob/7d3afc47e5ab5eb1d2b2e762c6ffafc3863db7e7/screenshots/km-mile.jpg)
+![sec-min](https://github.com/Jableed43/python-unit_converter/blob/7d3afc47e5ab5eb1d2b2e762c6ffafc3863db7e7/screenshots/sec-min.jpg)
