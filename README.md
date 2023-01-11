@@ -7,13 +7,22 @@ I made the design, layout and programming of the project.*
 ***Technologies:***
 - Python
 - PySimpleGUI
+- Pyinstaller
 
 ***Features:***
 *You can convert from kilometers to Miles, Kilograms to Pounds and Seconds to Minutes *
 
 ***How to run the project:***
 
-*In your console write:*
+>***Two options***
+
+*From windows executable*
+
+You just download the project, inside "dist" folder you will find the app.exe.
+
+*From your ide*
+
+In your console write:
   - Initialize a new local git repository: git init
   - Clone this project to your computer: git clone https://github.com/Jableed43/python-unit_converter.git
   - Create a virtual environment: python -m venv venv
